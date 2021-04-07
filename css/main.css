@@ -149,3 +149,7 @@ body {
 .footer * {
   margin: 0;
 }
+
+a:focus {
+  outline-color: #fff;
+}
